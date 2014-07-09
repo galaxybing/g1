@@ -20,7 +20,8 @@ http://git-scm.com/book/zh
 	setup（ 安装 ）
 https://help.github.com/articles/set-up-git
 	commands（ 命令行 ）
-http://git-scm.com/book/commands
+http://git-scm.com/docs
+http://git-scm.com/docs/git-commit
 https://github.com/gitster/git-htmldocs
 	$ git help git
 file:///D:/Git/doc/git/html/git.html
@@ -33,13 +34,9 @@ http://blog.csdn.net/manageer/article/details/8849726
 廖雪峰的官方网站
 Git教程
 	使用GitHub
-http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013762854849
-
-1051ccfaef0ccb470894c858999603fedf000
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000
 	添加远程库
-http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242
-
-354807e192f02a44359908df8a5643103a000
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000
 
 Git入门  偶尔e网事
 http://blog.csdn.net/column/details/jacky-git.html?page=2
@@ -55,21 +52,9 @@ Github上更新自己fork的代码
 	http://my.oschina.net/luffyke/blog/70336
 
 
-三）按图索骥.doc
-git 初学解决错误 
-http://blog.csdn.net/qyf_5445/article/details/8737913
-需要熟记的git命令
-http://www.2cto.com/kf/201212/179768.html
-http://blog.csdn.net/hao1056531028/article/details/7767567
-如何在GitHub上协作开发开源项目？
-http://os.51cto.com/art/201308/408674.htm
-
+三）
 $ git push -u origin master
-由于远程库是空的，我们第一次推送master分支时，加上了-u参数，Git不但会把本地的master分支内容推送
-
-的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就
-
-可以简化命令。
+由于远程库是空的，我们第一次推送master分支时，加上了-u参数，Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令。
 从现在起，只要本地作了提交，就可以通过命令：
 $ git push origin master
 
