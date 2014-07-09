@@ -1,0 +1,71 @@
+
+Github
+galaxybing
+wozai1203github
+https://github.com/join/plan
+
+一）Git 教程( api )
+在 Windows 上安装
+http://msysgit.github.io/
+GitHubSetup
+https://github.com/stan/GitHubSetup
+
+本地化版本控制	文件补丁
+Subversion	文件快照
+Git 		镜像
+
+Git-入门中文
+	courser( 教程 )
+http://git-scm.com/book/zh
+	setup（ 安装 ）
+https://help.github.com/articles/set-up-git
+	commands（ 命令行 ）
+http://git-scm.com/book/commands
+https://github.com/gitster/git-htmldocs
+	$ git help git
+file:///D:/Git/doc/git/html/git.html
+
+
+二）博客教程
+github版本库使用详细教程
+http://blog.csdn.net/manageer/article/details/8849726
+
+廖雪峰的官方网站
+Git教程
+	使用GitHub
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000
+	添加远程库
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000
+
+Git入门  偶尔e网事
+http://blog.csdn.net/column/details/jacky-git.html?page=2
+
+Github上更新自己fork的代码
+	1）pull request 或 compare 按扭功能全用 - 在线
+	http://www.360doc.com/content/13/0410/18/2569758_277424931.shtml
+	http://hi.baidu.com/wyg_bd/item/ae04a7269e8095849c63d111
+
+	2）clone 及 push本地库代码（麻烦） - 本地
+	https://help.github.com/articles/fork-a-repo
+	http://blog.csdn.net/do_it__/article/details/7836513
+	http://my.oschina.net/luffyke/blog/70336
+
+生成SSH-key.jpg
+生成SSH key
+Next, you'll be asked to enter a passphrase：
+37601203
+https://help.github.com/articles/generating-ssh-keys
+
+
+三）按图索骥.doc
+git 初学解决错误 
+http://blog.csdn.net/qyf_5445/article/details/8737913
+需要熟记的git命令
+http://www.2cto.com/kf/201212/179768.html
+http://blog.csdn.net/hao1056531028/article/details/7767567
+
+
+	
+
+
+
